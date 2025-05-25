@@ -41,13 +41,16 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 ### 📱 Mobile Apps
 
 - **Berxarawa**  
-  Emergency tools for crisis situations – [Play Store](https://play.google.com/store/apps/details?id=com.smartcode.berxarawa)
+  Emergency tools for crisis situations  
+  [Google Play](https://play.google.com/store/apps/details?id=com.smartcode.berxarawa)
 
 - **Muslim Guard**  
-  Religious and safety features for the Muslim community – [Play Store](https://play.google.com/store/apps/details?id=krd.onlineguard.muslimguard)
+  Religious and safety features for the Muslim community  
+  [Google Play](https://play.google.com/store/apps/details?id=krd.onlineguard.muslimguard)
 
 - **Ferba**  
-  Utility app for everyday tasks – [Play Store](https://play.google.com/store/apps/details?id=com.f.flutter.ferba)
+  Utility app for everyday tasks  
+  [Google Play](https://play.google.com/store/apps/details?id=com.f.flutter.ferba)
 
 - **Salami Music** *(In Review)*  
 - **Asli Online Shopping** *(In Review)*
@@ -72,10 +75,10 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 
 ---
 
-## 🐍 GitHub Activity Snake
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mhamad23/Mhamad23/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Mhamad23/Mhamad23/blob/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -88,4 +91,3 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 ---
 
 > *"Code with purpose. Build with passion."*
-
