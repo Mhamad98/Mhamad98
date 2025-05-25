@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Mhamad+Hamid;Mobile+%26+Web+Developer;Flutter+%26+MERN+Stack+Expert;&center=true&size=22">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mhamad23&label=Profile%20Views&color=0e75b6&style=flat" alt="Mhamad23" />
-</p>
-
 ---
 
 # 👨‍💻 Mhamad Hamid
