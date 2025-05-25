@@ -36,15 +36,19 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 
 ### 📱 Mobile Apps
 
-- **Berxarawa** 
+- **Job Finder Application**
+  
+- **Salami Music**
+ 
+- **Teslim Post**
 
-- **Muslim Guard** 
+- **Asli Online Book Shopping** 
 
 - **Ferba** 
 
-- **Salami Music**  
+- **Birxarawa**  
 
-- **Asli Online Shopping** 
+- **Dr.hunar** 
 
 ### 🌐 Websites
 
