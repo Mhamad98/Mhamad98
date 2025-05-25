@@ -54,6 +54,7 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 
 - 🔗 [**silvermorganltd.com**](https://www.silvermorganltd.com/)
 - 🔗 [**silvermorgan.net**](https://www.silvermorgan.net/)
+- 🔗 [**tradeshieldofficial.com**](https://www.tradeshieldofficial.com/en/)
 - 🔗 [**tradeshieldrate.com**](https://tradeshieldrate.com/)
 ---
 
