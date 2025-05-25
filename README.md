@@ -29,30 +29,21 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 
 ### 📱 Mobile Apps
 
-- **Berxarawa** – Emergency tools for crisis situations  
-  [Play Store](https://play.google.com/store/apps/details?id=com.smartcode.berxarawa)
+- **Berxarawa** 
 
-- **Muslim Guard** – Religious and safety features for the Muslim community  
-  [Play Store](https://play.google.com/store/apps/details?id=krd.onlineguard.muslimguard)
+- **Muslim Guard** 
 
-- **Ferba** – Daily utility toolkit  
-  [Play Store](https://play.google.com/store/apps/details?id=com.f.flutter.ferba)
+- **Ferba** 
 
-- **Salami Music** *(In Review)* – Rich music streaming experience  
-- **Asli Online Shopping** *(In Review)* – Seamless shopping platform
+- **Salami Music**  
+
+- **Asli Online Shopping** 
 
 ### 🌐 Websites
 
-- 🔗 [**silvermorganltd.com**](https://www.silvermorganltd.com/) – Business website (React)
-- 🔗 [**silvermorgan.net**](https://www.silvermorgan.net/) – Informational company site (MERN)
-- 🔗 [**tradeshieldrate.com**](https://tradeshieldrate.com/) – Company rating & review platform (MERN)
-
----
-
-## 📈 GitHub Stats
-
-![Mhamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhamad23&show_icons=true&theme=github_dark)
-
+- 🔗 [**silvermorganltd.com**](https://www.silvermorganltd.com/)
+- 🔗 [**silvermorgan.net**](https://www.silvermorgan.net/)
+- 🔗 [**tradeshieldrate.com**](https://tradeshieldrate.com/)
 ---
 
 ## 📬 Contact
