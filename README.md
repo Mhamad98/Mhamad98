@@ -30,7 +30,7 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+----
 
 ## 🚀 Featured Projects
 
@@ -63,13 +63,13 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 - 🔗 [**tradeshieldofficial.com**](https://www.tradeshieldofficial.com/en/)
 - 🔗 [**tradeshieldrate.com**](https://tradeshieldrate.com/)
 - 🔗 [**botro.co**](https://botro.co/)
----
+----
 
 ## 📬 Contact
 
 📧 **Email:** mhamadhamid411@gmail.com  
 📍 **Location:** Sulaymaniyah, Iraq
 
----
+----
 
 > *"Code with purpose. Build with passion."*
