@@ -63,7 +63,7 @@ I'm a passionate developer with over 5 years of hands-on experience building hig
 - 🔗 [**tradeshieldofficial.com**](https://www.tradeshieldofficial.com/en/)
 - 🔗 [**tradeshieldrate.com**](https://tradeshieldrate.com/)
 - 🔗 [**botro.co**](https://botro.co/)
-- 🔗 [**vinma.net**]([https://vinma.net/](https://www.vinma.net/))
+- 🔗 [**vinma.net**]([https://vinma.net/])
 ---
 
 ## 📬 Contact
