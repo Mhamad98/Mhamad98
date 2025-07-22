@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="mailto:mhamadhamid411@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mhamadhamid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://botro.co"><img src="https://img.shields.io/badge/Portfolio-Visit-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mhamad-hamid-89a9aa1b9/?originalSubdomain=iq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-Visit-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
