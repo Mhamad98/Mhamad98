@@ -52,13 +52,13 @@
 | Job Finder          | A smart job search platform. |
 | Salami Music        | A music streaming app. |
 | Teslim Post         | Delivery & shipping solution. |
-| Botro App           | Fuel delivery app. |
+| Botro App           | Booking Appointment. |
 | Asli Book Shopping  | Online bookstore. |
 | Muslim Guard        | Islamic utility app. |
 | Muslim Defender     | Islamic protection app. |
-| Ferba               | Kurdistan-based app. |
-| Birxarawa           | Local marketplace app. |
-| Dr. Hunar           | Doctor & patient solution. |
+| Ferba               | Learning app. |
+| Birxarawa           | Drug Reminders. |
+| Dr. Hunar           | Doctor & patient booking. |
 
 ---
 
