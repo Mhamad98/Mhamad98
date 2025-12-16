@@ -71,7 +71,7 @@
 - 🔗 [**botro.co**](https://botro.co/)
 - 🔗 [**vinma.net**](https://vinma.net/)
 
----
+----
 
 ### 📞 Contact
 
