@@ -117,16 +117,16 @@ I'm based in **Sulaymaniyah, Iraq** and work with clients worldwide.
 
  
   GitHub activity (optional).
-  Replace USERNAME with your GitHub username in both URLs, then delete this
+  Replace Mhamad98 with your GitHub Mhamad98 in both URLs, then delete this
   comment's opening and closing lines to show the cards.
 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&background=042B59&border=042B59&stroke=0A3F7F&ring=54C5F8&fire=00ED64&currStreakNum=F5FAFF&sideNums=F5FAFF&currStreakLabel=54C5F8&sideLabels=F5FAFF&dates=9FB6D3" width="100%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=&background=042B59&border=042B59&stroke=0A3F7F&ring=54C5F8&fire=00ED64&currStreakNum=F5FAFF&sideNums=F5FAFF&currStreakLabel=54C5F8&sideLabels=F5FAFF&dates=9FB6D3" width="100%" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=042B59&color=54C5F8&line=00ED64&point=F5FAFF&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?Mhamad98=Mhamad98&bg_color=042B59&color=54C5F8&line=00ED64&point=F5FAFF&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
 </p>
 
 
