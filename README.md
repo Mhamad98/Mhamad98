@@ -1,84 +1,139 @@
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Mhamad+Hamid;Mobile+%26+Web+Developer;Flutter+%26+MERN+Stack+Expert;&center=true&size=24">
+  <img src="./assets/header.svg" width="100%" alt="Mhamad Hamid — Mobile & Web Developer, Flutter & MERN Stack Expert. 5+ years building mobile and web apps. Sulaymaniyah, Iraq, working with clients worldwide." />
 </p>
 
-<h1 align="center">🚀 Mhamad Hamid</h1>
-<h3 align="center">💻 Mobile & Web Developer | Flutter & MERN Stack Expert</h3>
-
 <p align="center">
-  <a href="mailto:mhamadhamid411@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mhamad-hamid-89a9aa1b9/?originalSubdomain=iq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-Visit-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:mhamadhamid411@gmail.com"><img src="https://img.shields.io/badge/Email_me-042B59?style=for-the-badge&logo=gmail&logoColor=54C5F8" alt="Email me" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mhamad-hamid-89a9aa1b9/"><img src="https://img.shields.io/badge/LinkedIn-042B59?style=for-the-badge&logo=linkedin&logoColor=54C5F8" alt="LinkedIn" /></a>
 </p>
 
----
+## About
 
-### 👋 About Me
+I build mobile and web apps that are robust, scale well, and look good, and I've been doing it for **5+ years**.
 
-🎯 I'm a passionate developer with over **5+ years** of experience crafting robust, scalable, and visually appealing mobile & web apps.
+On mobile I work in **Flutter**. On the web I work across the **MERN stack**, from the database to the interface. Either way the goal is the same: clean code, modern UI/UX, and an architecture that stays efficient as the product grows.
 
-💙 I love bringing **creative ideas** to life through **clean code**, **modern UI/UX**, and efficient architectures.
+I'm based in **Sulaymaniyah, Iraq** and work with clients worldwide.
 
-🛠️ I specialize in **Flutter** for mobile apps and the **MERN stack** for full-stack web applications.
+## Tech stack
 
-🌍 Based in **Sulaymaniyah, Iraq** – working with clients worldwide!
+<table>
+  <tr>
+    <td width="130"><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-042B59?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-042B59?style=for-the-badge&logo=dart&logoColor=54C5F8" alt="Dart" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-042B59?style=for-the-badge&logo=mongodb&logoColor=00ED64" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Express.js-042B59?style=for-the-badge&logo=express&logoColor=F5FAFF" alt="Express.js" />
+      <img src="https://img.shields.io/badge/React-042B59?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-042B59?style=for-the-badge&logo=nodedotjs&logoColor=00ED64" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-042B59?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Figma-042B59?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+      <img src="https://img.shields.io/badge/Git-042B59?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+    </td>
+  </tr>
+</table>
 
----
+## Mobile apps
 
-### 🧰 Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Job Finder</b> &nbsp;<code>Jobs</code><br />
+      <sub>A smart job search platform.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Salami Music</b> &nbsp;<code>Music</code><br />
+      <sub>A music streaming app.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Teslim Post</b> &nbsp;<code>Logistics</code><br />
+      <sub>Delivery and shipping solution.</sub>
+    </td>
+    <td valign="top">
+      <b>Botro App</b> &nbsp;<code>Booking</code><br />
+      <sub>Appointment booking.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Asli Book Shopping</b> &nbsp;<code>E-commerce</code><br />
+      <sub>Online bookstore.</sub>
+    </td>
+    <td valign="top">
+      <b>Dr. Hunar</b> &nbsp;<code>Health</code><br />
+      <sub>Doctor and patient booking.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Birxarawa</b> &nbsp;<code>Health</code><br />
+      <sub>Medication reminders.</sub>
+    </td>
+    <td valign="top">
+      <b>Ferba</b> &nbsp;<code>Education</code><br />
+      <sub>Learning app.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Muslim Guard</b> &nbsp;<code>Lifestyle</code><br />
+      <sub>Islamic utility app.</sub>
+    </td>
+    <td valign="top">
+      <b>Muslim Defender</b> &nbsp;<code>Lifestyle</code><br />
+      <sub>Islamic protection app.</sub>
+    </td>
+  </tr>
+</table>
 
-#### 📱 Mobile Development
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+## Websites
 
-#### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://www.silvermorganltd.com/"><b>silvermorganltd.com</b></a></td>
+    <td width="33%" align="center"><a href="https://www.silvermorgan.net/"><b>silvermorgan.net</b></a></td>
+    <td width="33%" align="center"><a href="https://botro.co/"><b>botro.co</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.tradeshieldofficial.com/en/"><b>tradeshieldofficial.com</b></a></td>
+    <td align="center"><a href="https://tradeshieldrate.com/"><b>tradeshieldrate.com</b></a></td>
+    <td align="center"><a href="https://vinma.net/"><b>vinma.net</b></a></td>
+  </tr>
+</table>
 
-#### 🛠️ Tools & Others
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!--
+  GitHub activity (optional).
+  Replace USERNAME with your GitHub username in both URLs, then delete this
+  comment's opening and closing lines to show the cards.
 
-----
+## GitHub activity
 
-### 📱 Mobile Apps
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&background=042B59&border=042B59&stroke=0A3F7F&ring=54C5F8&fire=00ED64&currStreakNum=F5FAFF&sideNums=F5FAFF&currStreakLabel=54C5F8&sideLabels=F5FAFF&dates=9FB6D3" width="100%" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=042B59&color=54C5F8&line=00ED64&point=F5FAFF&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+</p>
+-->
 
-| App Name            | Description |
-|---------------------|-------------|
-| Job Finder          | A smart job search platform. |
-| Salami Music        | A music streaming app. |
-| Teslim Post         | Delivery & shipping solution. |
-| Botro App           | Booking Appointment. |
-| Asli Book Shopping  | Online bookstore. |
-| Muslim Guard        | Islamic utility app. |
-| Muslim Defender     | Islamic protection app. |
-| Ferba               | Learning app. |
-| Birxarawa           | Drug Reminders. |
-| Dr. Hunar           | Doctor & patient booking. |
+## Contact
 
------
+Have a project in mind? Email **[mhamadhamid411@gmail.com](mailto:mhamadhamid411@gmail.com)** or message me on **[LinkedIn](https://www.linkedin.com/in/mhamad-hamid-89a9aa1b9/)**.
 
-### 🌐 Websites
-
-- 🔗 [**silvermorganltd.com**](https://www.silvermorganltd.com/)
-- 🔗 [**silvermorgan.net**](https://www.silvermorgan.net/)
-- 🔗 [**tradeshieldofficial.com**](https://www.tradeshieldofficial.com/en/)
-- 🔗 [**tradeshieldrate.com**](https://tradeshieldrate.com/)
-- 🔗 [**botro.co**](https://botro.co/)
-- 🔗 [**vinma.net**](https://vinma.net/)
-
------
-
-### 📞 Contact
-
-- 📧 **Email:** mhamadhamid411@gmail.com  
-- 🌍 **Location:** Sulaymaniyah, Iraq
-
------
-
-> 💬 *“Code with purpose. Build with passion.”*
-
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Code with purpose. Build with passion. — Mhamad Hamid" />
+</p>
