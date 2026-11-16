@@ -116,9 +116,6 @@ I'm based in **Sulaymaniyah, Iraq** and work with clients worldwide.
 </table>
 
  
-  GitHub activity (optional).
-  Replace Mhamad98 with your GitHub Mhamad98 in both URLs, then delete this
-  comment's opening and closing lines to show the cards.
 
 ## GitHub activity
 
